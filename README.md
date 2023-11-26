@@ -1,5 +1,6 @@
 # narik
-моя первая игра
-esc- выход
-space - опустить
-q - заново
+my first game
+//
+esc - exit/
+space - down/
+q - retry
